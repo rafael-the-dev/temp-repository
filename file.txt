@@ -1,1 +1,3 @@
 Um arquivo para exemplos, ignora esse arquivo
+
+git commit -m 'Initial'
